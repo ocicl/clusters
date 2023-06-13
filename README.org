@@ -2,9 +2,8 @@
 
 Variety of clustering tools for the Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/sirherrbatka/clusters.git   |
-| commit  | {"messa  |
-| systems | clusters |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/sirherrbatka/clusters.git |
+| commit  | 094cb90                                          |
+| systems | clusters                                         |
+|---------+--------------------------------------------------|
